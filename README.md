@@ -53,4 +53,4 @@ App explains setting up TcpListener in SF.
 ```
 
 ## Simple data flow
-![test data flow](/blob/main/images/data-flow.PNG)
+![test data flow](../../blob/main/images/data-flow.PNG)
